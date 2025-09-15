@@ -1,0 +1,14 @@
+{
+    "Name":"Sherlock and localizers",
+    "BIDSVersion": "1.4.0",
+    "Authors": [
+        "Hannah Small",
+        "Haemy Lee Masson",
+        "Ericka Wodka",
+        "Stewart H. Mostofsky",
+        "Leyla Isik"
+    ],
+    "HowToAcknowledge": "Please cite our paper (TBD)",
+    "DatasetDOI": "TODO",
+    "License": "CC0"
+}
